@@ -1,4 +1,4 @@
-project OverView
+project OverView:
 This project focuses on analyzing pizza sales data to uncover meaningful business insights using Key Performance Indicators (KPIs) and data visualizations. The goal is to understand sales performance, customer behavior, and product popularity to support data-driven decision-making by using Sql+Excel.
 
 Objective:
@@ -28,3 +28,5 @@ GitHub – Project version control and documentation
  Dataset used
 Pizza sales transactional data including order details, pizza types, categories, sizes, quantities, and Total_prices.
 - <a href="https://github.com/amitg-24/Pizza_Sales_Analysts/blob/main/Dashboard.xlsx">Dataset</a>
+
+- Dashborad Interaction <a href="https://github.com/amitg-24/Pizza_Sales_Analysts/blob/main/Dashboard_Screenshot.png">View Dashboard</a>
