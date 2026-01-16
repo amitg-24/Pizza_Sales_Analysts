@@ -25,5 +25,6 @@ SQL – Data extraction and KPI calculation
 Excel – Data visualization and dashboard creation
 GitHub – Project version control and documentation
 
- Dataset
+ Dataset used
 Pizza sales transactional data including order details, pizza types, categories, sizes, quantities, and Total_prices.
+- <a href="https://github.com/amitg-24/Pizza_Sales_Analysts/blob/main/Dashboard.xlsx">Dataset</a>
